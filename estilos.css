@@ -1,0 +1,42 @@
+body{
+  color: #fff;
+}
+form{
+  width: 300px;
+  height: 710px;
+  background-color: #188ce0;
+  margin: auto;
+  text-align: center;
+}
+table{
+  border-collapse: collapse;
+  margin: auto;
+  width: 60%;
+}
+td{
+  padding: 10px 10px;
+}
+a{
+  color: #fff;
+}
+h3{
+  padding-top: 15px;
+}
+.boton{
+  background-color: #53c9c6;
+  border: 1px solid #146473;
+  width: 190px;
+  padding: 5px;
+  color: #fff;
+}
+.izq{
+  text-align: left;
+}
+.espacio{
+  padding-bottom: 20px;
+}
+.error{
+  border: 1px solid red;
+  background-color: #fff;
+  color: red;
+}
