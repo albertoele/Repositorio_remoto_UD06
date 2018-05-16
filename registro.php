@@ -7,6 +7,8 @@
     <style media="screen">
     form{
       <?php
+//Incluimos modificación
+//Incluimos otra modificación
       include 'sesion.php';
       $sesion=new Sesion();
       $sesion->cambiaColor();
